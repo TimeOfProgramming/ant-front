@@ -1,0 +1,5 @@
+plugins:
+  '@csstools/postcss-global-data':
+    files:
+      - src/shared/theme/breakpoints.css
+  postcss-preset-env: {}

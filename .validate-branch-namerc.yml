@@ -1,0 +1,2 @@
+pattern: '^(feat|refactor|bugfix|hotfix|chore|docs)\/.+$'
+errorMsg: 'Branch type must be one of: feat, refactor, bugfix, hotfix, chore, docs.'

@@ -1,4 +1,4 @@
-# Личный кабинет платформы для обучения Apex Nova Tech
+# Личный кабинет платформы для обучения ANT
 
 - [Дизайн](https://www.figma.com/design/pxB2g14WW8DBHqINQtHbLp/Ant?node-id=723-2065&node-type=canvas&t=Aia9xEBc0iq0PXOr-0)
 - [Сваггер](https://back.dev.apexnovatech.com/docs)

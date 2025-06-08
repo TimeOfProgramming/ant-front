@@ -4,7 +4,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "api:generate": "npx swagger-typescript-api --path https://back.dev.apexnovatech.com/docs-yaml --output src/shared/api/artifacts --name generated.ts --responses --sort-types --sort-routes --axios --unwrap-response-data",
+    "api:generate": "npx swagger-typescript-api generate --path https://back.dev.apexnovatech.com/docs-yaml --output src/shared/api/artifacts --name generated.ts --responses --sort-types --sort-routes --axios --unwrap-response-data",
     "build": "vite build",
     "dev": "vite",
     "format": "prettier --list-different .",
